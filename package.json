@@ -1,4 +1,10 @@
 {
     "name": "gh-scripts-test-full",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "devDependencies": {
+        "gh-scripts": "^1.0.0-alpha.4"
+    },
+    "scripts": {
+        "authors": "./node_modules/gh-scripts/bin/gh-scripts.mjs authors"
+    }
 }
