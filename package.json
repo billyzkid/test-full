@@ -2,11 +2,11 @@
     "name": "gh-scripts-test-full",
     "version": "1.0.0",
     "devDependencies": {
-        "gh-scripts": "^1.0.0-alpha.5"
+        "gh-scripts": "^1.0.0-alpha.6"
     },
     "scripts": {
-        "authors": "./node_modules/gh-scripts/bin/gh-scripts.mjs authors",
-        "authors-help": "./node_modules/gh-scripts/bin/gh-scripts.mjs authors --help",
-        "authors-version": "./node_modules/gh-scripts/bin/gh-scripts.mjs authors --version"
+        "authors": "gh-scripts authors",
+        "authors-help": "gh-scripts authors --help",
+        "authors-version": "gh-scripts authors --version"
     }
 }
