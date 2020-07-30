@@ -1,11 +1,12 @@
-## Unreleased commits
+## Unreleased Commits
 > The following commits have not been released.
 
-### Commits (13)
+### Commits (14)
 
-* Unlabeled commits
+* Unlabeled Commits
   > The following commits have not been labeled.
 
+  * Update changelog (will.allan@disneystreaming.com)
   * Update changelog (will.allan@disneystreaming.com)
   * Update changelog (will.allan@disneystreaming.com)
   * Update changelog (will.allan@disneystreaming.com)
@@ -19,7 +20,7 @@
   * Add package file (will.allan@disneystreaming.com)
   * Fixed file extension (will.allan@mlb.com)
 
-* :bug: Bug Fixes
+* Bug
   > The following commits are labeled 'bug'.
 
   * [#4](https://github.com/billyzkid/gh-scripts-test-full/pull/4) - PR #3 (billyzkid@yahoo.com)
@@ -33,11 +34,17 @@
 * Will Allan \<will.allan@mlb.com> ([@will-mlbam](https://github.com/will-mlbam))
 
 ## Release #1
+> This is the description of the release.
 
 ### Commits (3)
 
-* Unlabeled commits
+* Unlabeled Commits
   > The following commits have not been labeled.
+
+  * Initial commit (will.allan@mlb.com)
+
+* Enhancement
+  > The following commits are labeled 'enhancement'.
 
   * [#2](https://github.com/billyzkid/gh-scripts-test-full/pull/2) - PR #2 (billyzkid@yahoo.com)
 
@@ -46,8 +53,6 @@
   * [#1](https://github.com/billyzkid/gh-scripts-test-full/pull/1) - PR #1 (billyzkid@yahoo.com)
 
     This is the description of the PR.
-
-  * Initial commit (will.allan@mlb.com)
 
 ### Authors (2)
 
