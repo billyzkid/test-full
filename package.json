@@ -2,7 +2,7 @@
     "name": "gh-scripts-test-full",
     "version": "1.0.0",
     "devDependencies": {
-        "gh-scripts": "^1.0.0-alpha.10"
+        "gh-scripts": "^1.0.0-alpha.12"
     },
     "scripts": {
         "authors": "gh-scripts authors",

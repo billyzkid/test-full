@@ -1,20 +1,27 @@
 ## Unreleased
 > The following commits have not been released.
 
-### Commits (10)
+### Commits (11)
 
-* Update access token (Will Allan)
-* Add .env file (Will Allan)
-* Fix typo (Will Allan)
-* Add changelog script (Will Allan)
-* Update gh-scripts (Will Allan)
-* Add gitignore file (Will Allan)
-* Update package file (Will Allan)
-* Add package file (Will Allan)
-* Fixed file extension ([@will-mlbam](https://github.com/will-mlbam))
-* [#4](https://github.com/billyzkid/gh-scripts-test-full/pull/4) - PR #3 ([@billyzkid](https://github.com/billyzkid))
+* Unlabeled
+  > The following commits have not been labeled.
 
-  This is the description of the PR.
+  * Unspecified
+    > The following commits include unspecified files.
+
+    * Update changelog (will.allan@disneystreaming.com)
+    * Update access token (will.allan@disneystreaming.com)
+    * Add .env file (will.allan@disneystreaming.com)
+    * Fix typo (will.allan@disneystreaming.com)
+    * Add changelog script (will.allan@disneystreaming.com)
+    * Update gh-scripts (will.allan@disneystreaming.com)
+    * Add gitignore file (will.allan@disneystreaming.com)
+    * Update package file (will.allan@disneystreaming.com)
+    * Add package file (will.allan@disneystreaming.com)
+    * Fixed file extension (will.allan@mlb.com)
+    * [#4](https://github.com/billyzkid/gh-scripts-test-full/pull/4) - PR #3 (billyzkid@yahoo.com)
+
+      This is the description of the PR.
 
 ### Authors (3)
 
@@ -26,15 +33,21 @@
 
 ### Commits (3)
 
-* [#2](https://github.com/billyzkid/gh-scripts-test-full/pull/2) - PR #2 ([@billyzkid](https://github.com/billyzkid))
+* Unlabeled
+  > The following commits have not been labeled.
 
-  This is the description of the PR.
+  * Unspecified
+    > The following commits include unspecified files.
 
-* [#1](https://github.com/billyzkid/gh-scripts-test-full/pull/1) - PR #1 ([@billyzkid](https://github.com/billyzkid))
+    * [#2](https://github.com/billyzkid/gh-scripts-test-full/pull/2) - PR #2 (billyzkid@yahoo.com)
 
-  This is the description of the PR.
+      This is the description of the PR.
 
-* Initial commit ([@will-mlbam](https://github.com/will-mlbam))
+    * [#1](https://github.com/billyzkid/gh-scripts-test-full/pull/1) - PR #1 (billyzkid@yahoo.com)
+
+      This is the description of the PR.
+
+    * Initial commit (will.allan@mlb.com)
 
 ### Authors (2)
 
