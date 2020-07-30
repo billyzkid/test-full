@@ -3,7 +3,7 @@
 
 ### Commits (15)
 
-### Unlabeled Commits
+#### Unlabeled Commits
 > The following commits have not been labeled.
 
   * Update changelog (will.allan@disneystreaming.com)
@@ -21,7 +21,7 @@
   * Add package file (will.allan@disneystreaming.com)
   * Fixed file extension (will.allan@mlb.com)
 
-### Bug
+#### Bug
 > The following commits are labeled 'bug'.
 
   * [#4](https://github.com/billyzkid/gh-scripts-test-full/pull/4) - PR #3 (billyzkid@yahoo.com)
