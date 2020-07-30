@@ -1,35 +1,30 @@
-## Unreleased
+## Unreleased commits
 > The following commits have not been released.
 
-### Commits (12)
+### Commits (13)
 
-* Unlabeled
+* Unlabeled commits
   > The following commits have not been labeled.
 
-  * Unspecified
-    > The following commits include unspecified files.
-
-    * Update changelog (will.allan@disneystreaming.com)
-    * Update changelog (will.allan@disneystreaming.com)
-    * Update access token (will.allan@disneystreaming.com)
-    * Add .env file (will.allan@disneystreaming.com)
-    * Fix typo (will.allan@disneystreaming.com)
-    * Add changelog script (will.allan@disneystreaming.com)
-    * Update gh-scripts (will.allan@disneystreaming.com)
-    * Add gitignore file (will.allan@disneystreaming.com)
-    * Update package file (will.allan@disneystreaming.com)
-    * Add package file (will.allan@disneystreaming.com)
-    * Fixed file extension (will.allan@mlb.com)
+  * Update changelog (will.allan@disneystreaming.com)
+  * Update changelog (will.allan@disneystreaming.com)
+  * Update changelog (will.allan@disneystreaming.com)
+  * Update access token (will.allan@disneystreaming.com)
+  * Add .env file (will.allan@disneystreaming.com)
+  * Fix typo (will.allan@disneystreaming.com)
+  * Add changelog script (will.allan@disneystreaming.com)
+  * Update gh-scripts (will.allan@disneystreaming.com)
+  * Add gitignore file (will.allan@disneystreaming.com)
+  * Update package file (will.allan@disneystreaming.com)
+  * Add package file (will.allan@disneystreaming.com)
+  * Fixed file extension (will.allan@mlb.com)
 
 * :bug: Bug Fixes
   > The following commits are labeled 'bug'.
 
-  * Unspecified
-    > The following commits include unspecified files.
+  * [#4](https://github.com/billyzkid/gh-scripts-test-full/pull/4) - PR #3 (billyzkid@yahoo.com)
 
-    * [#4](https://github.com/billyzkid/gh-scripts-test-full/pull/4) - PR #3 (billyzkid@yahoo.com)
-
-      This is the description of the PR.
+    This is the description of the PR.
 
 ### Authors (3)
 
@@ -41,21 +36,18 @@
 
 ### Commits (3)
 
-* Unlabeled
+* Unlabeled commits
   > The following commits have not been labeled.
 
-  * Unspecified
-    > The following commits include unspecified files.
+  * [#2](https://github.com/billyzkid/gh-scripts-test-full/pull/2) - PR #2 (billyzkid@yahoo.com)
 
-    * [#2](https://github.com/billyzkid/gh-scripts-test-full/pull/2) - PR #2 (billyzkid@yahoo.com)
+    This is the description of the PR.
 
-      This is the description of the PR.
+  * [#1](https://github.com/billyzkid/gh-scripts-test-full/pull/1) - PR #1 (billyzkid@yahoo.com)
 
-    * [#1](https://github.com/billyzkid/gh-scripts-test-full/pull/1) - PR #1 (billyzkid@yahoo.com)
+    This is the description of the PR.
 
-      This is the description of the PR.
-
-    * Initial commit (will.allan@mlb.com)
+  * Initial commit (will.allan@mlb.com)
 
 ### Authors (2)
 
