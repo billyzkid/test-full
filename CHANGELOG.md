@@ -1,7 +1,7 @@
 ## Unreleased
 > The following commits have not been released.
 
-### Commits (11)
+### Commits (12)
 
 * Unlabeled
   > The following commits have not been labeled.
@@ -9,6 +9,7 @@
   * Unspecified
     > The following commits include unspecified files.
 
+    * Update changelog (will.allan@disneystreaming.com)
     * Update changelog (will.allan@disneystreaming.com)
     * Update access token (will.allan@disneystreaming.com)
     * Add .env file (will.allan@disneystreaming.com)
@@ -19,6 +20,13 @@
     * Update package file (will.allan@disneystreaming.com)
     * Add package file (will.allan@disneystreaming.com)
     * Fixed file extension (will.allan@mlb.com)
+
+* :bug: Bug Fixes
+  > The following commits are labeled 'bug'.
+
+  * Unspecified
+    > The following commits include unspecified files.
+
     * [#4](https://github.com/billyzkid/gh-scripts-test-full/pull/4) - PR #3 (billyzkid@yahoo.com)
 
       This is the description of the PR.
