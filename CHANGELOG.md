@@ -1,11 +1,12 @@
 ## Unreleased Commits
 > The following commits have not been released.
 
-### Commits (14)
+### Commits (15)
 
-* Unlabeled Commits
-  > The following commits have not been labeled.
+### Unlabeled Commits
+> The following commits have not been labeled.
 
+  * Update changelog (will.allan@disneystreaming.com)
   * Update changelog (will.allan@disneystreaming.com)
   * Update changelog (will.allan@disneystreaming.com)
   * Update changelog (will.allan@disneystreaming.com)
@@ -20,8 +21,8 @@
   * Add package file (will.allan@disneystreaming.com)
   * Fixed file extension (will.allan@mlb.com)
 
-* Bug
-  > The following commits are labeled 'bug'.
+### Bug
+> The following commits are labeled 'bug'.
 
   * [#4](https://github.com/billyzkid/gh-scripts-test-full/pull/4) - PR #3 (billyzkid@yahoo.com)
 
@@ -38,13 +39,13 @@
 
 ### Commits (3)
 
-* Unlabeled Commits
-  > The following commits have not been labeled.
+### Unlabeled Commits
+> The following commits have not been labeled.
 
   * Initial commit (will.allan@mlb.com)
 
-* Enhancement
-  > The following commits are labeled 'enhancement'.
+### Enhancement
+> The following commits are labeled 'enhancement'.
 
   * [#2](https://github.com/billyzkid/gh-scripts-test-full/pull/2) - PR #2 (billyzkid@yahoo.com)
 
