@@ -2,11 +2,10 @@
     "name": "gh-scripts-test-full",
     "version": "1.0.0",
     "devDependencies": {
-        "gh-scripts": "^1.0.0-alpha.6"
+Chang        "gh-scripts": "^1.0.0-alpha.7"
     },
     "scripts": {
         "authors": "gh-scripts authors",
-        "authors-help": "gh-scripts authors --help",
-        "authors-version": "gh-scripts authors --version"
+        "changelog": "gh-scripts changelog"
     }
 }
